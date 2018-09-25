@@ -1,0 +1,4 @@
+for centered with toolbar on right side divided in two
+-> Capture2Text_CLI.exe --screen-rect "1400 400 3000 950"
+
+res of comp: 3200 x 1800

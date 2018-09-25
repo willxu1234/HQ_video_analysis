@@ -1,0 +1,50 @@
+﻿﻿:0
+:o
+\
+﻿ple
+ptu
+H
+﻿ple
+ptu
+H
+﻿aptw
+aptw
+aptw
+﻿Which of these bodies of
+water is the smallest?
+
+Pond
+
+Sea
+
+Ocean
+﻿ln crafting and construction,
+DIY stands for what?
+Do It Yourself
+Drake ls Yugoslavian
+Dress In Yarmulkes
+﻿Pumping lemma If A is a regular language, then there is a number p (the
+pumping length) where if .s is any string in A of length at least 1), then .9 may be
+divided into three pieces, .9 = :zryz, satisfying the following conditions:
+
+1. for eachz' Z O, my’iz E A,
+
+2. |y| > O, and
+
+3. IIL'yI S 1).
+Recall the notation where |s| represents the length of string 3, yi means that '23
+copies of y are concatenated together, and 3/” equals a.
+
+When 5 is divided into myz, either :1: or 2 may be 6:, but condition 2 says that
+y # 5. Observe that without condition 2 the theorem would be trivially true.
+Condition 3 states that the pieces a: and 3/ together have length at most p. It is an
+extra technical condition that we occasionally ﬁnd useful when proving certain
+languages to be nonregular. See Example 1.74 for an application of condition 3.
+﻿Soup is typically eaten
+with what kind of
+
+Toothpick
+
+Spoon
+
+Meat thermometer
